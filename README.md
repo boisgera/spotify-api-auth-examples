@@ -2,7 +2,7 @@ Spotify API Authorization Example
 =================================================================================
 
 This project demonstrate Spotify API's user authentication flow using Python/Flask.
-The example show the authorizing user's profile, token information, and a button that
+The examples show the authorizing user's profile, token information, and a button that
 refreshes the access token.
 
 ![Profile](screenshots/profile.png)
