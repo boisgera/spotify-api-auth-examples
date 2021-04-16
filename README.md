@@ -17,7 +17,7 @@ Requirements
 Registration
 --------------------------------------------------------------------------------
 
-  - [`Register](https://developer.spotify.com/documentation/general/guides/app-settings/#register-your-app) your application with ``http://127.0.0.1:5000/callback`` as the redirect URI to obtain an application key and secret.
+  - [Register](https://developer.spotify.com/documentation/general/guides/app-settings/#register-your-app) your application with ``http://127.0.0.1:5000/callback`` as the redirect URI to obtain an application key and secret.
 
 
 Setup
